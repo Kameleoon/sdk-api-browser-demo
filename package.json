@@ -1,0 +1,17 @@
+{
+  "name": "parcel-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "source": "src/index.html",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build",
+    "start": "parcel"
+  },
+  "devDependencies": {
+    "url": "^0.11.0"
+  },
+  "dependencies": {
+    "@kameleoon/javascript-sdk": "^3.4.5"
+  }
+}
